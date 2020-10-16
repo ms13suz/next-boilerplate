@@ -21,7 +21,7 @@
   "dependencies": {
     "@next/bundle-analyzer": "^9.4.4",
     "@zeit/next-css": "^1.0.1",
-    "@types/next--saga": "^3.0.2",
+    "@types/next-redux-saga": "^3.0.2",
     "@zeit/next-sass": "^1.0.1",
     "autoprefixer": "^9.6.1",
     "bootstrap": "^4.4.1",
